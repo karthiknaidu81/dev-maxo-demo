@@ -47,13 +47,13 @@
 	<repository>
 		<id>Release</id>
 		<name>deprel</name>
-		<url>35.196.91.12:8081/repository/maven-releases/</url>
+		<url>http://35.196.91.12:8081/repository/deprel/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>Snapshot</id>
 		<name>depsnap</name>
-		<url>35.196.91.12:8081/repository/maven-snapshots/</url>
+		<url>http://35.196.91.12:8081/repository/depsnap/</url>
 	</snapshotRepository>
 
 </distributionManagement>
